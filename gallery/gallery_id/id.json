@@ -1,0 +1,93 @@
+[
+  {
+    "loc": "Postalm - Österreich",
+    "time": "16:12",
+    "desc": "Das ist im übrigen der Typ der diese hammer Seite fabriziert hat. :)",
+    "path": "gallery/img001.jpg",
+    "isVertical": false
+  },
+  {
+    "loc": "Frohburg - Eschefelder Teiche",
+    "time": "12:32",
+    "desc": "No Description",
+    "path": "gallery/img004.JPG",
+    "isVertical": false
+  },
+  {
+    "loc": "Irgendwo in einem Wald",
+    "time": "16:30",
+    "desc": "No Description",
+    "path": "gallery/img005.jpg",
+    "isVertical": true
+  },
+  {
+    "loc": "Postalm - Österreich",
+    "time": "16:00",
+    "desc": "PS: Das ist nicht mein Hund. :)",
+    "path": "gallery/img006.jpg",
+    "isVertical": false
+  },
+  {
+    "loc": "Postalm - Österreich",
+    "time": "17:46",
+    "desc": "Um dieses Bild zu machen, sind wir (Hendrik (der Typ der die Webseite erstellt hat), Luca (eine Bekannte) und ich) nach dem Schließen der Skilifte etwas abseits gefahren und haben auf den Sonnenuntergang gewartet.",
+    "path": "gallery/img008.jpg",
+    "isVertical": false
+  },
+  {
+    "loc": "Sellin - Ostsee",
+    "time": "15:34",
+    "desc": "...die Möwe stand einfach zu schön da...",
+    "path": "gallery/img009.jpg",
+    "isVertical": false
+  },
+  {
+    "loc": "Zu Hause",
+    "time": "17:53",
+    "desc": "...die ersten Mondbilder mit Teleobjektiv...",
+    "path": "gallery/img010.jpg",
+    "isVertical": true
+  },
+  {
+    "loc": "Zu Hause",
+    "time": "07:34",
+    "desc": "…und noch eins. (Das wurde aber während der Mondfinsternis 2019 aufgenommen)",
+    "path": "gallery/img011.jpg",
+    "isVertical": false
+  },
+  {
+    "loc": "Zu Hause",
+    "time": "21:00",
+    "desc": "No Description",
+    "path": "gallery/img012.jpg",
+    "isVertical": true
+  },
+  {
+    "loc": "Zu Hause",
+    "time": "17:00",
+    "desc": "No Description",
+    "path": "gallery/img013.jpg",
+    "isVertical": false
+  },
+  {
+    "loc": "Zu Hause",
+    "time": "13:00",
+    "desc": "Das erste Schneeglöckchen 2019",
+    "path": "gallery/img014.jpg",
+    "isVertical": true
+  },
+  {
+    "loc": "Zu Hause",
+    "time": "14:56",
+    "desc": "Ein mega Regenbogen",
+    "path": "gallery/img015.jpg",
+    "isVertical": false
+  },
+  {
+    "loc": "Zu Hause",
+    "time": "4:30 bis 7:36",
+    "desc": "Last but überhaupt not least. Eine Zusammenfügung von sieben Einzelbildern der Mondfinsternis 2019.",
+    "path": "gallery/img016.jpg",
+    "isVertical": false
+  }
+]
