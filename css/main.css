@@ -350,13 +350,13 @@ main {
       right: 3vw; }
   .modal .data {
     position: relative;
-    top: 4vh;
+    -webkit-top: 4vh;
     display: grid;
     grid-template-areas: "loc" "time" "desc";
     grid-template-rows: repeat(3, 10%); }
     .modal .data span {
-      padding-top: 5vh;
-      padding-bottom: 5vh;
+      -webkit-padding-before: 5vh;
+      -webkit-padding-after: 5vh;
       position: relative;
       text-align: center; }
       .modal .data span.vertical {
