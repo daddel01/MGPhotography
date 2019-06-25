@@ -351,6 +351,7 @@ main {
   .modal .data {
     position: relative;
     -webkit-top: 4vh;
+    top: 0vh;
     display: grid;
     grid-template-areas: "loc" "time" "desc";
     grid-template-rows: repeat(3, 10%); }
